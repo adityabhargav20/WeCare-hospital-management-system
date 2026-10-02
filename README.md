@@ -1,6 +1,6 @@
-# WeCare Hospitals
+# WeCare Hospital Management System
 
-A modern and clean website for WeCare Hospitals, featuring department listings, medical specialist profiles, and an interactive patient appointment booking system.
+A responsive MERN-based Hospital Management System with role-based authentication, patient records, doctor profiles, appointment booking, dashboard analytics, and secure database integration using MongoDB.
 
 ## Tech Stack
 
